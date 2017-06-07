@@ -43,7 +43,7 @@ String.valueOf(thisAmount) + "\n";
        result +=  "Amount owed is " + String.valueOf(totalAmount) + "\n";
        result += "You earned " + String.valueOf(frequentRenterPoints) +
 " frequent renter points";
-       System.out.println("result");
+       System.out.println("results");
        System.out.println(result);
        return result;
 
